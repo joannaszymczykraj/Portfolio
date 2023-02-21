@@ -105,23 +105,43 @@ I am convinced that my previous experience and acquired competences will prove u
   
   ### Bugs reports
   
+  <div>
+    <li><b>Exploratory testing web and mobile application on OLX:</li><b>
+  Link to bugs report:
   https://docs.google.com/spreadsheets/d/1x1DVWFnz6PyFapG01XsSVQezyhPIhXpi/edit?usp=share_link&ouid=109087150345702217098&rtpof=true&sd=true
   
+   <li><b>Exploration session based on Intellectual Tour - www.futbolkolektyw.pl:</li></b>
+  Link to bugs report:
   https://docs.google.com/document/d/1Wt2GUCyX9gKgvw5xaHhwNyhtu5z7ydNr/edit?usp=share_link&ouid=109087150345702217098&rtpof=true&sd=true
   
+  
+   <li><b>Web testing of www.futbolkolektyw.pl. Testing based on test cases:</li></b>
+  Link to bugs report:    
   https://docs.google.com/spreadsheets/d/1dQ8uGxsHPw4o7lnRP5SExDU3HHVipiWD/edit?usp=share_link&ouid=109087150345702217098&rtpof=true&sd=true
   
-
+  </div>
+  
   ### Testing reports
   
+  <div>  
+  <li><b>Web testing of www.futbolkolektyw.pl. Testing base on test cases:</li></b>
+  Link to test report:
   https://docs.google.com/document/d/1Fhc_v_SGABdbyHv936b5VrzHxxQ_Xlkt/edit?usp=share_link&ouid=109087150345702217098&rtpof=true&sd=true
+  
+  </div>
   
   
   ### Test cases
  
+ <div>
+ <li><b>Exploratory testing a mobile application Pick eat up:</li></b>
+ Link to test cases:
  https://docs.google.com/spreadsheets/d/1EeizUIlFFhEe095Mdyo65D1_0nDS2WF2/edit?usp=share_link&ouid=109087150345702217098&rtpof=true&sd=true
 
+  
+ <li><b>Web testing of www.futbolkolektyw.pl:</li></b>
+ Link to test cases:
  https://docs.google.com/spreadsheets/d/1yquAIiny1J6HeIlKY7xnPNhlCQbaNuG1/edit?usp=share_link&ouid=109087150345702217098&rtpof=true&sd=true 
   
   
-  
+   </div>
