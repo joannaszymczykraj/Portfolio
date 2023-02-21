@@ -28,6 +28,7 @@ I am convinced that my previous experience and acquired competences will prove u
 <li>Postman - testing tools for REST API</li>
 <li>Github</li>
 <li>HTML/CSS</li>
+<li>Xampp</li>
 <li>Slack - a tool for team communication</li>
 <li>SCRUM - known management methodology</li>
 </div>
